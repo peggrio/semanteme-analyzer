@@ -1,0 +1,23 @@
+main(){
+    a=5;
+    while(a>b){
+        if(x==1){
+            zc=2*(a+b);
+        }
+        j=3;
+        if(x>2){
+            ar=a*b;
+        }
+    }
+    while(a+2*b<=c){
+        c=c+2;
+    }
+    if(a==b){
+        while(t3==a*b){
+	        ss=(3.14*(a+b)*45-96)-5;
+	    }
+    }
+    j=2;
+    k=2;
+    sushdk=j+k;
+}

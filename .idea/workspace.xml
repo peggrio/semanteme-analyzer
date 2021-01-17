@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecf988d4-b4d7-46ac-88cd-7501960e5912" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/semanteme-analyzer" />
+  </component>
+  <component name="ProjectId" id="1m6QzP0WQechDYhiC91xgSdrpKD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Analyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Analyzer" />
+      <module name="FinalCompiler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Analyzer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf988d4-b4d7-46ac-88cd-7501960e5912" name="默认更改列表" comment="" />
+      <created>1608811822414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608811822414</updated>
+      <workItem from="1608811826017" duration="4968000" />
+      <workItem from="1608946488857" duration="6654000" />
+      <workItem from="1608960067709" duration="20840000" />
+      <workItem from="1609034979700" duration="3101000" />
+      <workItem from="1609119131809" duration="6301000" />
+      <workItem from="1609334376312" duration="598000" />
+      <workItem from="1609400084069" duration="21604000" />
+      <workItem from="1609470803850" duration="27734000" />
+      <workItem from="1609573496933" duration="20096000" />
+      <workItem from="1609718648841" duration="4207000" />
+      <workItem from="1609923617180" duration="610000" />
+      <workItem from="1610419838119" duration="110000" />
+      <workItem from="1610593513992" duration="24532000" />
+      <workItem from="1610796865879" duration="27637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610817137675">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="477" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1610817137675" />
+    <state x="438" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1610681651926">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="438" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1610681651926" />
+    <state x="309" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610799312046">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="309" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1610799312046" />
+    <state x="309" y="71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610766318129">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="309" y="71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1610766318129" />
+    <state x="353" y="226" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610597314685">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="353" y="226" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.760@0.0.1280.760" timestamp="1610597314685" />
+    <state x="421" y="124" key="FileChooserDialogImpl" timestamp="1610614819336">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="124" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1610614819336" />
+    <state width="1230" height="344" key="GridCell.Tab.0.bottom" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state width="1230" height="344" key="GridCell.Tab.0.center" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state width="1230" height="344" key="GridCell.Tab.0.left" timestamp="1610887556863">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1610887556863" />
+    <state width="1230" height="344" key="GridCell.Tab.0.right" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state width="1230" height="344" key="GridCell.Tab.1.bottom" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state width="1230" height="344" key="GridCell.Tab.1.center" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state width="1230" height="344" key="GridCell.Tab.1.left" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state width="1230" height="344" key="GridCell.Tab.1.right" timestamp="1610887556864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="344" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1610887556864" />
+    <state x="24" y="0" key="SettingsEditor" timestamp="1609508039532">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="24" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1609508039532" />
+    <state x="340" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1609923617065">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="340" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1609923617065" />
+    <state x="181" y="14" width="916" height="730" key="find.popup" timestamp="1610815694808">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="181" y="14" width="916" height="730" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1610815694808" />
+    <state x="261" y="0" width="865" height="760" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1609508036547">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="261" y="0" width="865" height="760" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.760@0.0.1280.760" timestamp="1609508036547" />
+    <state x="216" y="169" key="run.anything.popup" timestamp="1609477860133">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="216" y="169" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1609477860133" />
+    <state x="134" y="0" key="scopes" timestamp="1610597295460">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="134" y="0" key="scopes/0.0.1280.760@0.0.1280.760" timestamp="1610597295460" />
+    <state x="311" y="90" width="840" height="678" key="search.everywhere.popup" timestamp="1610856594998">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="311" y="90" width="840" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1610856594998" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordScanner.java</url>
+          <line>551</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordScanner.java</url>
+          <line>382</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordScanner.java</url>
+          <line>374</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordScanner.java</url>
+          <line>370</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

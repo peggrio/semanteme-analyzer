@@ -1,0 +1,39 @@
+(1)  a = 5	
+(2) if a > b  goto  4	
+(3) else goto  15   	
+(4) if x == 1  goto  6	
+(5) else goto  9   	
+(6) t1 = a + b	
+(7) t2 = 2 * t1	
+(8)  zc = t2	
+(9)  j = 3	
+(10) if x > 2  goto  12	
+(11) else goto  14   	
+(12) t3 = a * b	
+(13)  ar = t3	
+(14) goto 2   	
+(15) t4 = 2 * b	
+(16) t5 = a + t4	
+(17) if t5 <= c  goto  19	
+(18) else goto  22   	
+(19) t6 = c + 2	
+(20)  c = t6	
+(21) goto 15   	
+(22) if a == b  goto  24	
+(23) else goto  34   	
+(24) t7 = a * b	
+(25) if t3 == t7  goto  27	
+(26) else goto  34   	
+(27) t8 = a + b	
+(28) t9 = 3.14 * t8	
+(29) t10 = t9 * 45	
+(30) t11 = t10 - 96	
+(31) t12 = t11 - 5	
+(32)  ss = t12	
+(33) goto 24   	
+(34)  j = 2	
+(35)  k = 2	
+(36) t13 = j + k	
+(37)  sushdk = t13	
+(38)-------finished---------
+success!
